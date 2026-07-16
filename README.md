@@ -9,12 +9,24 @@ A powerful, highly customizable Tampermonkey userscript that allows you to take 
 
 With a sleek, built-in floating control panel, you can independently toggle various elements on and off for both Facebook and Instagram without having to refresh the page:
 
+
+
+
+
+
 <img width="688" height="640" alt="Screenshot 2026-07-17 075216" src="https://github.com/user-attachments/assets/4bbc028b-7169-409f-91b1-0786dc508152" />
+
 ### Instagram Controls
 - **Hide Likes & Counts:** Completely removes the heart button and the "likes" / "views" count on standard posts and Reels.
 - **Hide Repost:** Hides the "Repost" button (the circular arrows icon), while safely keeping the Share (paper airplane) button intact.
 - **Hide Save:** Hides the "Save" (bookmark) button.
 - **Hide Comments:** An extremely thorough hider that completely removes the comment bubble button, "View all comments" links, inline replies on the feed, the "Add a comment..." box, and the comment sections inside pop-up modals.
+
+
+
+
+
+
 
 
 

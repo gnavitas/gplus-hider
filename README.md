@@ -16,7 +16,11 @@ With a sleek, built-in floating control panel, you can independently toggle vari
 - **Hide Save:** Hides the "Save" (bookmark) button.
 - **Hide Comments:** An extremely thorough hider that completely removes the comment bubble button, "View all comments" links, inline replies on the feed, the "Add a comment..." box, and the comment sections inside pop-up modals.
 
+
+
+
 <img width="297" height="135" alt="Screenshot 2026-07-17 075235" src="https://github.com/user-attachments/assets/cfc1ac4d-e5de-4ff9-8f31-48d5ec972bf5" />
+
 ### Facebook Controls
 - **Hide Like Buttons:** Removes the main "Like" interaction button beneath posts, while preserving your ability to see the smaller reaction icons (like, heart, care) on the post.
 - **Hide Like/Reaction Counts:** Removes the numbers and text summarizing how many people liked or reacted to a post.

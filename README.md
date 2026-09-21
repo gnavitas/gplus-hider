@@ -1,4 +1,4 @@
-<img width="423" height="529" alt="Screenshot 2026-07-17 075156" src="https://github.com/user-attachments/assets/7df99592-4c22-4c3f-b27b-bea57c2c2063" />
+
 
 # G+ Social Media Button Hider
 <img width="338" height="769" alt="image" src="https://github.com/user-attachments/assets/0070e0af-9550-4497-b582-0b078631aa76" />
@@ -7,7 +7,6 @@ A simple Tampermonkey script that hides annoying buttons and metrics on Facebook
 
 There's a floating toggle menu in the bottom-right corner of your screen where you can turn things on and off without even refreshing the page.
 
-<img width="688" height="640" alt="Screenshot 2026-07-17 075216" src="https://github.com/user-attachments/assets/4bbc028b-7169-409f-91b1-0786dc508152" />
 
 ## What it hides
 <img width="672" height="690" alt="image" src="https://github.com/user-attachments/assets/ad30b88f-a295-4b1e-995e-e42fa38c7f97" />
